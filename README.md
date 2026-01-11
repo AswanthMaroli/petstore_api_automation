@@ -520,13 +520,10 @@ Lightweight performance checks:
 5. Ensure all tests pass
 6. Submit a pull request
 
-## 📄 License
-
-MIT License
 
 ## 👥 Authors
-
-Senior QA Automation Engineer
+Aswanth Maroli
+QA Automation Engineer
 
 ---
 
